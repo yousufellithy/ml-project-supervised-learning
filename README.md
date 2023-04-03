@@ -3,7 +3,7 @@
 ## Project Outcomes
 - Supervised Learning: use supervised learning techniques to build a machine learning model that can predict whether a patient has diabetes or not, based on certain diagnostic measurements.The project involves three main parts: exploratory data analysis, preprocessing and feature engineering, and training a machine learning model. 
 ### Duration:
-Approximately 2 hours and 20 minutes.
+Approximately 3 hours and 20 minutes.
 ### Project Description:
 In this projects, you will apply supervised learning techniques to a real-world data set and use data visualization tools to communicate the insights gained from the analysis.
 
